@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;1,100&display=swap');
+
+body{
+    background-color:aliceblue;
+    font-family: 'Nunito', sans-serif;
+    
+    
+}
+img{
+    width: 300px;
+}
+h1{
+    color: rgb(8, 4, 11);
+}
